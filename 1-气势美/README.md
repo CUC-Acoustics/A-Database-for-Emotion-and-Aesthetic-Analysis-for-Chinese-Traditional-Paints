@@ -1,0 +1,1 @@
+气势美（Qishi）：mighty, magnificent, glorious, grandeur, vigorous and firm, precipitous, powerful in strength and impetus, towering, tremendous, boundless, bold and unconstrained, extremely attractive and impressive
