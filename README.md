@@ -12,4 +12,5 @@ Our future work includes expanding data of rare aesthetics, and conducting multi
 The reference papers are:
 
 1, 中国国画情感—美感数据库.湛颖，高妍，谢凌云.中国图像图形学报，2019年12月，第24卷第12期，pp. 2267-2278.
+
 2, 中国国画艺术美感特征分析与分类.湛颖，高妍，谢凌云.北京航空航天大学学报，2019年12月，第45卷第12期，pp. 2514-2522.
